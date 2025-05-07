@@ -4,6 +4,10 @@
 
 This project is a submission for the Frontend Developer position's second interview stage. The task was to recreate a login page based on a provided Figma design within a 24-hour timeframe, ensuring a pixel-perfect UI, form validation, and adherence to best practices.
 
+## Live Demo
+
+https://dokan-front-end-test.vercel.app/
+
 ## Features
 
 - **Pixel-Perfect UI**: Closely matches the Figma design, including layout, typography, colors, and responsiveness across devices.
